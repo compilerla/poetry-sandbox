@@ -1,0 +1,9 @@
+{
+    "name": "poetry-sandbox",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.9",
+    "postAttachCommand": "pip install poetry && poetry --version",
+    "extensions": [
+        "ms-python.python",
+        "bungcip.better-toml"
+    ]
+}
