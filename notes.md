@@ -123,3 +123,9 @@ poetry add `cat requirements.txt`
 
 ## Open questions
  - Does dependabot know how to look for updates for `pyproject.toml`?
+
+Poetry's first release was in [2018](https://python-poetry.org/history/#010---2018-02-28), and it is still growing.
+
+Example of missing functionality it recently added: 
+  - https://old.reddit.com/r/Python/comments/t3p3ub/poetry_has_officially_fixed_permanently_included/ 
+     - Previously you had to still define `setup.py` to support editable installs of your Poetry project - https://stackoverflow.com/questions/62983756/what-is-pyproject-toml-file-for/65162874#65162874
