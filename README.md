@@ -1,6 +1,6 @@
 # poetry-sandbox
 
-A small devcontainer for exploring `poetry`.
+A small devcontainer for exploring [`poetry`](https://github.com/python-poetry/poetry).
 
 ## Getting started
 
